@@ -11,12 +11,14 @@
 * [Javascript Lexical Structure](https://flaviocopes.com/javascript-lexical-structure/)
 * [Javascript Expressions](https://flaviocopes.com/javascript-expressions/)
 * [Javascript Types](https://flaviocopes.com/javascript-types/)
+* [Javascript Objects](http://javascript.info/object-basics)
 * [Javascript Variables](https://flaviocopes.com/javascript-variables/)
 * [Javascript Functions](https://flaviocopes.com/javascript-functions/)
 * [Javascript Arrow Functions](https://flaviocopes.com/javascript-arrow-functions/)
 * [Javascript Loops](https://flaviocopes.com/javascript-loops/)
 * [Javascript Loops and Scope](https://flaviocopes.com/javascript-loops-and-scope/)
 * [Javascript Arrays](https://flaviocopes.com/javascript-array/)
+* [Javascript Classes](http://javascript.info/class-patterns)
 * [Javascript Template Literals](https://flaviocopes.com/javascript-template-literals/)
 
 ## Asynchronous programming
@@ -32,7 +34,6 @@
 ## Advanced topics
 * [Javascript Functional Programming](https://flaviocopes.com/javascript-functional-programming/)
 * [Efficiently load Javascript with defer and async](https://flaviocopes.com/javascript-async-defer/)
-* [CORS](https://flaviocopes.com/cors/)
 * [Javascript Closures](https://flaviocopes.com/javascript-closures/)
 * [Javascript Regular Expressions](https://flaviocopes.com/javascript-regular-expressions/)
 
